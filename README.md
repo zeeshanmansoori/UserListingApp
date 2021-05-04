@@ -21,5 +21,5 @@ this module is used to search the GitHub user
 ![6](https://user-images.githubusercontent.com/43025057/117055735-1ca13480-ad39-11eb-9e69-47276e82e4d0.jpg)
 
 4. Show User \n
-on licking of amy user from the list an activity open up showing the particular user details
+on licking of any user from the list an activity open up showing the particular user details
 ![7](https://user-images.githubusercontent.com/43025057/117055738-1dd26180-ad39-11eb-9bf2-49ee2c90d320.jpg)
