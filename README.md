@@ -12,9 +12,12 @@ The following modules were proposed
 ![4](https://user-images.githubusercontent.com/43025057/117055731-1b700780-ad39-11eb-96cd-bfe0d478cdb7.jpg)
 
 2. Search Preference 🔍
+this module is used to provide filter functionality
 ![5](https://user-images.githubusercontent.com/43025057/117055733-1c089e00-ad39-11eb-8838-f0eba7117959.jpg)
 
-3. 
+3. Search Users 
+this module is used to search the GitHub user 
 ![6](https://user-images.githubusercontent.com/43025057/117055735-1ca13480-ad39-11eb-9e69-47276e82e4d0.jpg)
 
+4. Show User
 ![7](https://user-images.githubusercontent.com/43025057/117055738-1dd26180-ad39-11eb-9bf2-49ee2c90d320.jpg)
