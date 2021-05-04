@@ -14,7 +14,7 @@ class UserVewModel:ViewModel() {
 
      fun filter(q:String){
          viewModelScope.launch {
-             RetrofitInstance.api.getUsers(q).body()?.apply {
+             RetrofitInstance.api.getFilterUsers(q).body()?.apply {
                  ls.value = this.items
              }
          }
